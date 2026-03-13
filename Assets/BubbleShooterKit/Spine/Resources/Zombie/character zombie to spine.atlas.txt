@@ -1,0 +1,54 @@
+character zombie to spine.png
+size:1928,432
+filter:Linear,Linear
+pma:true
+Body
+bounds:1,1,427,1071
+rotate:90
+Face
+bounds:1073,53,181,217
+offsets:0,0,181,225
+Font hair1
+bounds:1380,11,58,99
+Font hair2
+bounds:1236,8,44,100
+rotate:90
+Font hair3
+bounds:1736,9,34,114
+rotate:90
+Glasses
+bounds:1439,23,180,87
+Gun
+bounds:1073,1,51,162
+rotate:90
+L Hand
+bounds:1073,271,157,852
+rotate:90
+L hair1
+bounds:1255,244,26,79
+offsets:1,0,27,79
+rotate:90
+L hair2
+bounds:1255,55,63,65
+offsets:1,9,68,75
+L hair3
+bounds:1255,121,69,122
+offsets:0,10,87,133
+Layer 7
+bounds:1896,156,25,114
+R Hand
+bounds:1337,111,159,558
+offsets:0,0,160,558
+rotate:90
+R hair1
+bounds:1620,44,66,126
+rotate:90
+R hair2
+bounds:1337,8,42,102
+offsets:2,0,44,104
+R hair3
+bounds:1747,50,60,116
+rotate:90
+eye1
+bounds:1620,7,115,36
+offsets:0,0,115,38
